@@ -1,0 +1,29 @@
+# Temporary Files
+*~
+
+.gradle/
+build/
+bin/
+target/
+classes/
+.gwt/
+gwt-unitCache/
+war/
+gen/
+/dist
+
+*.class
+hs_err_pid*
+
+*.iml
+/.idea/
+
+
+#gradle wrapper
+/local.properties
+
+#Eclipse metadata
+.metadata
+.classpath
+.project
+.settings
